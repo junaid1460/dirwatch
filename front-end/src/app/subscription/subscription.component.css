@@ -1,0 +1,21 @@
+.container {
+    /* box-shadow: 0 0 10px black; */
+    width: 100%;
+    padding: 5px;
+    border-radius: 2px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+}
+
+.blocks {
+    width: 150px;
+    height: 150px;
+    /* background-color: red; */
+    margin: 10px;
+    background-size: cover;
+    border-radius: 100px;
+    box-shadow: 0 5px 11px #b3b3b3
+}
+
